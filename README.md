@@ -1,2 +1,2 @@
 # Kody
-W tym projekcie znajdują się pliki do sprawdzianów
+W tym repozytorium znajdują się pliki do sprawdzianów
